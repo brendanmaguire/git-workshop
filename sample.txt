@@ -1,4 +1,4 @@
 abc
-adfa
+// adfa
 more stuff again
 another line
